@@ -28,7 +28,7 @@
         </ul>
         <figure>
           <img src="https://i.pinimg.com/736x/04/7b/9a/047b9a9746e72a83ff80d09e2b49681a.jpg" alt="Eren in Season 2">
-          <figcaption>Eren killing the first titan after joining survey core.</figcaption>
+          <figcaption>Eren killing first titan after joining survey core.</figcaption>
         </figure>
       </section>
       <section>
