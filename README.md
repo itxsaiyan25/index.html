@@ -27,8 +27,8 @@
           <li><strong>Kidnapping and Rescue: </strong> After the initial breach of Wall Rose, Eren is kidnapped alongside Krista Lenz by Reiner (the Armored Titan) and Bertholdt (the Colossal Titan). The Survey Corps mounts an intense rescue mission to save him.</li>
         </ul>
         <figure>
-          <img src="https://i.redd.it/o3p9wayym7mg1.jpeg" alt="Eren in Season 2">
-          <figcaption>Eren during the reveal of armoured and colossal titan.</figcaption>
+          <img src="https://i.pinimg.com/736x/04/7b/9a/047b9a9746e72a83ff80d09e2b49681a.jpg" alt="Eren in Season 2">
+          <figcaption>Eren killing the first titan after joining survey core.</figcaption>
         </figure>
       </section>
       <section>
